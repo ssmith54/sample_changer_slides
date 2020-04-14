@@ -2,8 +2,8 @@
 
 ---
 
-@snap[north-west span-50 text-center]
-### Indirect sample changer initialisation
+@snap[north-west span-100 text-black text-11]
+Indirect sample changer initilisation
 @snapend
 
 ```python
@@ -41,8 +41,8 @@ def _setup(self):
 @snapend
 
 ---
-@snap[north-west span-50 text-center]
-### Indirect sample changer execution
+@snap[north-west span-100 text-black text-11]
+Indirect sample changer execution
 @snapend
 
 ```python
@@ -67,7 +67,7 @@ def PyExec(self)
 
 ---
 @snap[north-west span-50 text-center]
-#### Summary
+### Summary
 @snapend2
 
 @snap[west span-150]
